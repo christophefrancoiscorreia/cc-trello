@@ -25,6 +25,22 @@ const intitialState = [
                 id: 1,
                 text: "another text card"
             },
+            {
+                id: 2,
+                text: "we create a static list and a static text"
+            },
+            {
+                id: 3,
+                text: "another text card"
+            },
+            {
+                id: 4,
+                text: "we create a static list and a static text"
+            },
+            {
+                id: 5,
+                text: "another text card"
+            },
         ]
     }
 ]
